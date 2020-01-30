@@ -1,0 +1,68 @@
+body{
+  margin: 0px;
+   font-family: Copperplate,"Copperplate Gothic Light",fantasy;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+  color:#66BFBF;
+}
+h3{
+  font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+  color:#66BFBF;
+}
+
+.footer-link{
+  font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+  color:#66BFBF;
+}
+
+
+.programmer{
+  font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+  color:#66BFBF;
+  font-weight: normal;
+
+}
+
+.line{
+  font-family: Candara,Calibri,Segoe,"Segoe UI",Optima,Arial,sans-serif;
+  color:#66BFBF;
+  font-weight: normal;
+  line-height: 2;
+
+  text-decoration:underline;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+  padding-top: 50px;
+  background-color: #E4F9F5;
+  margin: 0px;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:30px;
+}
+
+.profile-pix{
+  border-radius: 100%;
+width: 25%;
+}
